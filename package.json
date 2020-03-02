@@ -1,0 +1,20 @@
+{
+  "name": "customise-links",
+  "version": "1.1.1",
+  "description": "customise external and internal links on your app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "customise-links",
+    "anchortags",
+    "external and internal links"
+  ],
+  "author": "marcdomain",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcdomain/customise-links.git"
+  }
+}
